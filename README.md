@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawit Asmero</h1>
 <h3 align="center"> Working on data science project (By the ALx Africa) </h3>
 <h4 align="center">see you soon </h4>
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davedawitdave&label=Profile%20views&color=0e75b6&style=flat" alt="davedawitdave" /> </p>
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/45142893/180373097-5ce4cfa0-54e0-4e5e-9ff5-d38043f7b106.gif" width="450" height="320" />
@@ -18,7 +18,7 @@
 /h3>
 <p align="left">
 <!-- <a href="https://dev.to/meron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meron" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/linkedin.com/in/https://www.linkedin.com/in/dawit-asmero-9ba45517a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dawit-asmero-9ba45517a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dawit-asmero-9ba45517a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dawit-asmero-9ba45517a/" height="30" width="40" /></a>
   <a href="https://medium.com/@dawitasmero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dawitasmero" height="30" width="40" /></a>
 
 </p>
