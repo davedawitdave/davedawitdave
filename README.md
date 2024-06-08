@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **dawitasmero@gmail.com**
 - ⚡ Fun fact **I love studying anything related to Geography and History**
-/h3>
 <p align="left">
 <!-- <a href="https://dev.to/meron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meron" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/dawit-asmero-9ba45517a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dawit-asmero-9ba45517a/" height="30" width="40" /></a>
