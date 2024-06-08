@@ -1,10 +1,9 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dawit Asmero</h1>
 <h3 align="center"> Working on data science project (By the ALx Africa) </h3>
 <h4 align="center">see you soon </h4>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meriab21&label=Profile%20views&color=0e75b6&style=flat" alt="meriab21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davedawitdave&label=Profile%20views&color=0e75b6&style=flat" alt="davedawitdave" /> </p>
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/45142893/180373097-5ce4cfa0-54e0-4e5e-9ff5-d38043f7b106.gif" width="450" height="320" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davedawitdave" alt="davedawitdave" /></a> </p>
