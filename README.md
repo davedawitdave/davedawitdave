@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dawit Asmero</h1>
-<h3 align="center"> Just finishing 14 Months Data Science Courses (ALx Africa & ExploreAI acdamy) </h3>
-<h4 align="center">see you soon </h4>
+<h3 align="center">Data Scientist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davedawitdave&label=Profile%20views&color=0e75b6&style=flat" alt="davedawitdave" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davedawitdave" alt="davedawitdave" /></a> </p>
-
+- Just finishing 14 Months of Data Science Courses (ALx Africa & ExploreAI academy)
 - 🔭 I'm currently working on [Data Science Projects]([(https://www.datascienceportfol.io/dawitasmero))
 
 - 🌱 I’m currently learning **Streamlit, Flask and Airflow**
 
 - 📫 How to reach me **dawitasmero@gmail.com**
-
 - ⚡ Fun fact **I love studying anything related to Geography and History**
 /h3>
 <p align="left">
