@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davedawitdave&label=Profile%20views&color=0e75b6&style=flat" alt="davedawitdave" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davedawitdave" alt="davedawitdave" /></a> </p>
 
-- 🎆 Just finishing 14 Months of Data Science Courses ( From the ALx Africa & ExploreAI academy)
+- 🎆 took 14 Months of Data Science Courses ( From the ALx Africa & ExploreAI academy)
 
 - 🔭 I'm currently working on [Data Science Projects]([(https://www.datascienceportfol.io/dawitasmero))
 
