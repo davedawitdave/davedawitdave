@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on [Data Science Projects]([(https://www.datascienceportfol.io/dawitasmero))
 
-- 🌱 I’m currently learning **Streamlit, Flask and Airflow**
+- 🌱 I’m currently learning **building agentic systems and alignment-driven AI capabilities, tool-using AI systems for complex reasoning tasks**
 
 - 📫 How to reach me **dawitasmero@gmail.com**
 <p align="left">
